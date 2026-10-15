@@ -20,7 +20,7 @@ Visor DICOM **gratuito** para **Windows y Mac** pensado para veterinaria: radiog
 
 ## Qué hace
 
-- Abre estudios desde una carpeta, un ZIP o archivos DICOM sueltos (también arrastrándolos).
+- Abre estudios desde una carpeta, un ZIP o archivos DICOM sueltos (también arrastrándolos), con **doble clic en los `.dcm`** o con clic derecho sobre una carpeta → "Abrir con CDIVET DICOM Viewer" (Windows).
 - Visor 2D con cine (cineloops de ecografía), varios visores, ventana/nivel con ajustes rápidos, medidas (regla, ángulo, ROI en HU), flechas y texto.
 - MPR con planos oblicuos, MIP de grosor ajustable, cine y orientación veterinaria.
 - 3D con ajustes rápidos (hueso, tejido blando, pulmón, vasos, piel), MIP y vistas rápidas.
