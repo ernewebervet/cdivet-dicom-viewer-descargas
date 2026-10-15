@@ -25,6 +25,8 @@ Visor DICOM **gratuito** para **Windows y Mac** pensado para veterinaria: radiog
 - MPR con planos oblicuos, MIP de grosor ajustable, cine y orientación veterinaria.
 - 3D con ajustes rápidos (hueso, tejido blando, pulmón, vasos, piel), MIP y vistas rápidas.
 - Grabación de vídeo MP4 en 2D, MPR y 3D, con opción de ocultar los datos del paciente.
+- Pantalla completa (botón, F11 o Esc para salir) y doble clic para ampliar un visor.
+- Gestos del touchpad: pellizcar para ampliar y deslizar con dos dedos para pasar cortes.
 - Modo claro y modo oscuro.
 
 ## Instalar en Windows
