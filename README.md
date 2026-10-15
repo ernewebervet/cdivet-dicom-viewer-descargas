@@ -46,7 +46,11 @@ Visor DICOM **gratuito** para **Windows y Mac** pensado para veterinaria: radiog
 
 ## Privacidad
 
-CDIVET DICOM Viewer **no se conecta a internet**. Las imágenes y los datos de los pacientes nunca salen de tu ordenador.
+Las imágenes y los datos de los pacientes **nunca salen de tu ordenador**. La única conexión a internet de CDIVET DICOM Viewer es **"Buscar actualizaciones"**: consulta esta página pública para saber si hay una versión nueva y, si lo pides, descarga el instalador. No envía ningún dato. Puedes desactivar la comprobación automática en "Acerca de".
+
+## Actualizaciones
+
+Desde la versión **1.3.0**, CDIVET avisa solo cuando hay una versión nueva. En Windows se descarga e instala desde la propia app; en Mac abre esta página. Si tienes la 1.2.0 o anterior, instala la 1.3.0 a mano una última vez.
 
 ## ⚠️ Aviso importante
 
