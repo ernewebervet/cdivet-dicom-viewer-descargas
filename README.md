@@ -26,7 +26,8 @@ Visor DICOM **gratuito** para **Windows y Mac** pensado para veterinaria: radiog
 - 3D con ajustes rápidos **a color por tipo de tejido** (hueso, hueso y tejidos, tejido blando, pulmón, vasos, piel), MIP, vistas rápidas y **herramientas de corte** (tijeras, caja de recorte, deshacer) para quitar, por ejemplo, la camilla.
 - Grabación de vídeo MP4 en 2D, MPR y 3D, con opción de ocultar los datos del paciente.
 - Pantalla completa (botón, F11 o Esc para salir) y doble clic para ampliar un visor.
-- Gestos del touchpad: pellizcar para ampliar y deslizar con dos dedos para pasar cortes. Atajos de teclado: **A** mover, **S** zoom, **D** recorrer cortes, **W** ventana/nivel.
+- Gestos del touchpad: pellizcar para ampliar y deslizar con dos dedos para pasar cortes. Atajos de teclado: **A** mover, **S** zoom, **D** recorrer cortes, **W** ventana/nivel, **R** rotación libre.
+- **Rotación libre** de la imagen (2D, MPR y 3D), además de los giros de 90° y los volteos.
 - Modo claro y modo oscuro.
 
 ## Instalar en Windows
